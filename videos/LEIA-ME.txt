@@ -1,0 +1,9 @@
+PRÉVIA VISUAL — SOLUTIONVIX
+Formato: 1280x720, 16:9, 24 fps.
+Abertura: cena 1 original, com seu áudio original.
+Continuação: fotografias extraídas da própria cena 1, com aproximações dos dois notebooks e movimentos de câmera.
+Cena 2 e o vídeo de detalhes não foram incorporados, para preservar o cenário solicitado.
+Legendas: texto integral, com tempos editoriais provisórios. Ainda não estão sincronizadas com uma locução integral.
+PENDÊNCIA: a partir de 9,5 segundos não há narração. O serviço de síntese de voz não ficou acessível neste ambiente (HTTP 403 pelo proxy). Esta é uma prévia visual, não a versão final narrada.
+A continuidade usa imagens estáticas com movimento de câmera; não é animação nova de Walter falando.
+Arquivos: montar.py reproduz a montagem; legendas.srt contém o texto; roteiro.txt contém a locução necessária.
